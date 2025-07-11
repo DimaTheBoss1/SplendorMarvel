@@ -32,6 +32,14 @@ SplendorMarvel/
 ├── .gitignore            # Fichiers/dossiers ignorés par Git
 ```
 
+## Aperçu du jeu
+
+Voici un exemple d'affichage lors d'une partie :
+![Exemple d'affichage du jeu](img/affichage_jeu.png)
+
+Exemple d'affichage du plateau :
+![Exemple d'affichage du plateau](img/affichage_plateau.png)
+
 ## Prérequis
 - Java 8 ou supérieur
 - Maven (recommandé) ou Ant
