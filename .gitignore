@@ -1,0 +1,38 @@
+# Fichiers/dossiers générés par Eclipse
+.classpath
+.project
+.settings/
+
+# Dossiers de build Maven/Ant
+/target/
+nbproject/
+
+# Fichiers compilés Java
+*.class
+
+# Logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.tar.gz
+*.jar
+*.war
+*.ear 
+
+# Ignorer toutes les strats sauf Strat98, Strat, Strat1 et Strat9814
+splendormarvel/ia/Strat*.java
+!splendormarvel/ia/Strat.java
+!splendormarvel/ia/Strat1.java
+!splendormarvel/ia/Strat98.java
+!splendormarvel/ia/Strat9814.java
+
+src/main/java/splendormarvel/ia/Strat*.java
+!src/main/java/splendormarvel/ia/Strat.java
+!src/main/java/splendormarvel/ia/Strat1.java
+!src/main/java/splendormarvel/ia/Strat98.java
+!src/main/java/splendormarvel/ia/Strat9814.java 
